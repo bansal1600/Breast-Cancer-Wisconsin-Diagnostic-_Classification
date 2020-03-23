@@ -1,13 +1,7 @@
 # Breast-Cancer-Wisconsin-Diagnostic-_Classification
 
-# This file mainly consists Using the techniques for Grid Search and K-Fold cross validation for Breast Cancer Wisconsin (Diagnostic) Data Set.
-
+# This file mainly consists of Using the techniques for Grid Search and K-Fold cross-validation for Breast Cancer Wisconsin (Diagnostic) Data Set.
 ## The Result are below:-
-
-| Result | Without HyperParameterTuning | With HyperParameterTuning |
-| --- | --- |
-| `DecisionTree` | List all *new or modified* files | |
-| `Randomforest` | Show file differences that **haven't been** staged |
 
 | Result  | Without HyperParameterTuning | With HyperParameterTuning |
 | --- | --- |
@@ -16,7 +10,7 @@
 |SVM             | 0.614035087719                    0.93567251462    →dramatically improved|
 |kNearestNeighbor |0.93567251462            |         0.93567251462    →the same result |
 
-### The default hyper parameters set of DecisionTree, Randomforest and kNearestNeighbor looks not so bad.
+### The default hyperparameters set of DecisionTree, Random forest and K-nearest neighbour looks not so bad.
 
 
-### I learned how to use the Grid Search and K-Fold cross validation techniques for differnet machine learning techqniques for supervised algorithems
+### I learned how to use the Grid Search and K-Fold cross-validation techniques for different machine learning techniques for supervised algorithms
